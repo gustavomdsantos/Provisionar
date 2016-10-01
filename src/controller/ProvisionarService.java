@@ -2,7 +2,7 @@ package controller;
 
 import model.Query;
 
-public class ProvisionarController {
+public class ProvisionarService {
 
 	/**
 	 * Método que calcula a correção monetária de um valor qualquer.
